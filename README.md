@@ -1,6 +1,6 @@
 # Hi, I'm **Johanncc01**! 👋
 
->🇨🇭 I'm from Switzerland and currently studying [**Life Sciences Engineering**](https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/) at EPFL in Lausanne.
+>🇨🇭 I'm from Switzerland and currently studying [**Life Sciences Engineering**](https://www.epfl.ch/education/master/programs/life-sciences-engineering/) at EPFL in Lausanne.
 
 >🧬 My interests include biology, programming, and mathematics.
 
