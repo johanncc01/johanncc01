@@ -16,7 +16,7 @@
 
 ## Skills
 
-- 🌟 Programming languages: C++, Python, Julia
+- 🌟 Programming languages: Python, R, C++
 - 💻 LaTeX, Git, GitHub
 - 🧬 Biology : Molecular, cellular, ...
 - 📊 Calculus : Advanced, statistics. 
